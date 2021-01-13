@@ -39,7 +39,8 @@ module.exports = {
         link: '/intro/',
         items: [
           {text: '前言', link: '/intro/'},
-          {text: '简介', link: '/intro/welcome'}
+          {text: '简介', link: '/intro/welcome'},
+          {text: '详细介绍', link: '/intro/detailed'},
         ]
       }
     ],
@@ -47,6 +48,7 @@ module.exports = {
       '/intro/': [
         '',
         'welcome',
+        'detailed',
       ],
     }
   },
