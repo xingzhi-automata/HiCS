@@ -47,6 +47,7 @@ module.exports = {
         text: '学业',
         link: '/curriculum/',
         items: [
+          { text: '上大', link: '/curriculum/shu/' },
           { text: '交大', link: '/curriculum/sjtuse/' },
         ]
       }
