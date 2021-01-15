@@ -7,8 +7,8 @@ export default {
   props: ['name', 'link'],
   data() {
     return {
-      name: props.name,
-      link: props.link,
+      name: this.name,
+      link: this.link,
     };
   },
 };
