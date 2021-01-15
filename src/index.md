@@ -9,7 +9,7 @@ features:
   details: 🤖人工智能
 - title: Computer Science
   details: 🧮 计算机科学与技术
-- title: Software Enginering
+- title: Software Engineering
   details: 👩‍💻 软件工程
 - title: Information Security
   details: 🔒 信息/网络空间安全

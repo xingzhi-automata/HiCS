@@ -38,8 +38,16 @@ module.exports = {
         text: '介绍',
         link: '/intro/',
         items: [
-          {text: '前言', link: '/intro/'},
-          {text: '简介', link: '/intro/welcome'}
+          { text: '前言', link: '/intro/' },
+          { text: '简介', link: '/intro/welcome' },
+          { text: '详细介绍', link: '/intro/detailed' },
+        ]
+      },
+      {
+        text: '学业',
+        link: '/curriculum/',
+        items: [
+          { text: '交大', link: '/curriculum/sjtuse/' },
         ]
       }
     ],
@@ -47,6 +55,7 @@ module.exports = {
       '/intro/': [
         '',
         'welcome',
+        'detailed',
       ],
     }
   },
