@@ -32,7 +32,7 @@ sidebar: auto
 - **计算机理论**：指传统意义上的计算机课程，例如：编程、算法与数据结构、操作系统、编译原理等。
 - **应用/实践**：偏实际应用方向的课程。
 - **信息/通信**: 通信方向的课程，如通信原理、信号与系统等。
-- **电子**：电子工程（EE）向的课程，硬件向，传说中的电路理论、数电、模电  
+- **电子**：电子工程（EE）向的课程，硬件向，传说中的电路理论、数电、模电
 
 ## 学长学姐有话说
 
@@ -50,11 +50,11 @@ CS 大法好！想成为 geek 吗？想写出让人们沸腾的程序吗？想�
 
 上海大学 - 计算机科学与技术专业
 
-* 课程
+- 课程
 
-  我们学校的计算机除了基础必修课之外，还会有一些专业选修课供学生选择，比如组合数学、Python计算、计算机图形学、Web开发、信息安全技术、数据挖掘等等，可以根据自己的兴趣爱好、未来发展规划以及老师的优劣进行选择。
+  我们学校的计算机除了基础必修课之外，还会有一些专业选修课供学生选择，比如组合数学、Python 计算、计算机图形学、Web 开发、信息安全技术、数据挖掘等等，可以根据自己的兴趣爱好、未来发展规划以及老师的优劣进行选择。
 
-* 课外
+- 课外
 
   总的来说全靠自己主动
 
@@ -77,10 +77,10 @@ CS 大法好！想成为 geek 吗？想写出让人们沸腾的程序吗？想�
 
 ## 小小编
 
-- [SeanChao](https://github.com/SeanChao)
-- [xxyyyy](https://github.com/xxyyyy)
-- [Circle](https://github.com/circle117)
-- [huge-fish](https://github.com/huge-fish)
+<Author name="SeanChao" link="https://github.com/SeanChao" />
+<Author name="xxyyyy" link="https://github.com/xxyyyy" />
+<Author name="Circle" link="https://github.com/circle117" />
+<Author name="huge-fish" link="https://github.com/huge-fish" />
 
 ## 更新日志
 
