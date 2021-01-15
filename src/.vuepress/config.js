@@ -49,6 +49,7 @@ module.exports = {
         items: [
           { text: '上大', link: '/curriculum/shu/' },
           { text: '交大', link: '/curriculum/sjtuse/' },
+          { text: '武大', link: '/curriculum/whu/' },
         ]
       }
     ],
