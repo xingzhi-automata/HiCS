@@ -4,6 +4,9 @@ sidebar: auto
 
 # 计算机相关专业的详细介绍
 
+<Author name="huge-fish" link="https://github.com/huge-fish" />
+<Author name="SeanChao" link="https://github.com/SeanChao" />
+
 ## 传统的计算机科学
 
 各个院校的本科计算机相关专业培养计划都是十分相似的，如果感兴趣可以在自己心仪学校的相关专业或者学院的网站、教务网站上查到具体的培养计划。
@@ -45,5 +48,3 @@ Linux, Windows, Android, iOS, 鸿蒙, **操作系统**作为用户与计算机�
 ## 机器学习
 
 主要是对人工智能方向所需要的知识作了强化，例如随机过程、最优化方法等数学知识和通信领域的一些知识。
-
-
